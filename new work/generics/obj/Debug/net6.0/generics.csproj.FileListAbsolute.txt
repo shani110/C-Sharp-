@@ -1,0 +1,30 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\bin\Debug\net6.0\generics.exe
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\bin\Debug\net6.0\generics.deps.json
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\bin\Debug\net6.0\generics.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\bin\Debug\net6.0\generics.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\bin\Debug\net6.0\generics.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\refint\generics.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\generics.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\generics\obj\Debug\net6.0\ref\generics.dll
+D:\Spredian\C_Sharp_Programming\new work\generics\bin\Debug\net6.0\generics.exe
+D:\Spredian\C_Sharp_Programming\new work\generics\bin\Debug\net6.0\generics.deps.json
+D:\Spredian\C_Sharp_Programming\new work\generics\bin\Debug\net6.0\generics.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\generics\bin\Debug\net6.0\generics.dll
+D:\Spredian\C_Sharp_Programming\new work\generics\bin\Debug\net6.0\generics.pdb
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.dll
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\refint\generics.dll
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.pdb
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\generics.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\generics\obj\Debug\net6.0\ref\generics.dll

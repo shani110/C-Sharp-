@@ -1,0 +1,12 @@
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\bin\Debug\net6.0\GilgitApp.Domain.deps.json
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\bin\Debug\net6.0\GilgitApp.Domain.dll
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\bin\Debug\net6.0\GilgitApp.Domain.pdb
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.dll
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\refint\GilgitApp.Domain.dll
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\GilgitApp.Domain.pdb
+C:\Users\Muhammad Isa\source\repos\GilgitApp\GilgitApp.Domain\obj\Debug\net6.0\ref\GilgitApp.Domain.dll

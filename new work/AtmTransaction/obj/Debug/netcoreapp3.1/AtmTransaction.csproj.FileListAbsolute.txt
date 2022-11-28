@@ -1,0 +1,13 @@
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.exe
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.deps.json
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.dll
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\bin\Debug\netcoreapp3.1\AtmTransaction.pdb
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.dll
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.pdb
+C:\Users\Muhammad Isa\source\repos\AtmTransaction\obj\Debug\netcoreapp3.1\AtmTransaction.genruntimeconfig.cache

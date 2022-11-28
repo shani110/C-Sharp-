@@ -1,0 +1,30 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.exe
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.deps.json
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\refint\boxing and unboxing.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\boxing and unboxing\obj\Debug\net6.0\ref\boxing and unboxing.dll
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.exe
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.deps.json
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.dll
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\bin\Debug\net6.0\boxing and unboxing.pdb
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.dll
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\refint\boxing and unboxing.dll
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.pdb
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\boxing and unboxing.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\boxing and unboxing\obj\Debug\net6.0\ref\boxing and unboxing.dll

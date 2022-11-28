@@ -1,0 +1,30 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

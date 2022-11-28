@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.exe
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.deps.json
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.dll
+C:\Users\Muhammad Isa\source\repos\sealedClass\bin\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.dll
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\Muhammad Isa\source\repos\sealedClass\obj\Debug\netcoreapp3.1\delegate.genruntimeconfig.cache

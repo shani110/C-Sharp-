@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.exe
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.deps.json
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.dll
+C:\Users\Muhammad Isa\source\repos\paramExamples\bin\Debug\netcoreapp3.1\paramExamples.pdb
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.dll
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.pdb
+C:\Users\Muhammad Isa\source\repos\paramExamples\obj\Debug\netcoreapp3.1\paramExamples.genruntimeconfig.cache

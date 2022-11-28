@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.exe
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.deps.json
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.dll
+C:\Users\Muhammad Isa\source\repos\staticConstractor\bin\Debug\netcoreapp3.1\staticConstractor.pdb
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.dll
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.pdb
+C:\Users\Muhammad Isa\source\repos\staticConstractor\obj\Debug\netcoreapp3.1\staticConstractor.genruntimeconfig.cache

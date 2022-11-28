@@ -1,0 +1,5 @@
+D:\Spredian\C_Sharp_Programming\new work\passByRef and passByValue\obj\Debug\net6.0\passByRef and passByValue.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\passByRef and passByValue\obj\Debug\net6.0\passByRef and passByValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\passByRef and passByValue\obj\Debug\net6.0\passByRef and passByValue.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\passByRef and passByValue\obj\Debug\net6.0\passByRef and passByValue.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\passByRef and passByValue\obj\Debug\net6.0\passByRef and passByValue.csproj.CoreCompileInputs.cache

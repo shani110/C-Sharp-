@@ -1,0 +1,5 @@
+C:\Users\Muhammad Isa\source\repos\CodeFirstApproach\EfProject\obj\Debug\net6.0\EfProject.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\CodeFirstApproach\EfProject\obj\Debug\net6.0\EfProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\CodeFirstApproach\EfProject\obj\Debug\net6.0\EfProject.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\CodeFirstApproach\EfProject\obj\Debug\net6.0\EfProject.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\CodeFirstApproach\EfProject\obj\Debug\net6.0\EfProject.csproj.CoreCompileInputs.cache

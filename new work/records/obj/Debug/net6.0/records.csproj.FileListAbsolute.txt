@@ -1,0 +1,15 @@
+D:\Spredian\C_Sharp_Programming\new work\records\bin\Debug\net6.0\records.exe
+D:\Spredian\C_Sharp_Programming\new work\records\bin\Debug\net6.0\records.deps.json
+D:\Spredian\C_Sharp_Programming\new work\records\bin\Debug\net6.0\records.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\records\bin\Debug\net6.0\records.dll
+D:\Spredian\C_Sharp_Programming\new work\records\bin\Debug\net6.0\records.pdb
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.dll
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\refint\records.dll
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.pdb
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\records.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\records\obj\Debug\net6.0\ref\records.dll

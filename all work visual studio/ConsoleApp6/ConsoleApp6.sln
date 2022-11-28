@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6.csproj", "{19911300-2E58-4A14-B069-5A95F0A2D5AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcualtor", "..\calcualtor\calcualtor.csproj", "{1E44CA57-51B9-4043-ADEF-D438A6ABB053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19911300-2E58-4A14-B069-5A95F0A2D5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19911300-2E58-4A14-B069-5A95F0A2D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19911300-2E58-4A14-B069-5A95F0A2D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19911300-2E58-4A14-B069-5A95F0A2D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E44CA57-51B9-4043-ADEF-D438A6ABB053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E44CA57-51B9-4043-ADEF-D438A6ABB053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E44CA57-51B9-4043-ADEF-D438A6ABB053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E44CA57-51B9-4043-ADEF-D438A6ABB053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C40BA4B-4EBD-44E0-ACA2-BC1611111CE8}
+	EndGlobalSection
+EndGlobal

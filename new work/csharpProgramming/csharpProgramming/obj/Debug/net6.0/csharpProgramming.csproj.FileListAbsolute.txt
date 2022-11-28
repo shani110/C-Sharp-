@@ -1,0 +1,15 @@
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\bin\Debug\net6.0\csharpProgramming.exe
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\bin\Debug\net6.0\csharpProgramming.deps.json
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\bin\Debug\net6.0\csharpProgramming.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\bin\Debug\net6.0\csharpProgramming.dll
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\bin\Debug\net6.0\csharpProgramming.pdb
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.dll
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\refint\csharpProgramming.dll
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.pdb
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\csharpProgramming.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\csharpProgramming\csharpProgramming\obj\Debug\net6.0\ref\csharpProgramming.dll

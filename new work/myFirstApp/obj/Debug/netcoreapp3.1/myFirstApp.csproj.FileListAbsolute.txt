@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.exe
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.deps.json
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.dll
+C:\Users\Muhammad Isa\source\repos\myFirstApp\bin\Debug\netcoreapp3.1\myFirstApp.pdb
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.dll
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.pdb
+C:\Users\Muhammad Isa\source\repos\myFirstApp\obj\Debug\netcoreapp3.1\myFirstApp.genruntimeconfig.cache

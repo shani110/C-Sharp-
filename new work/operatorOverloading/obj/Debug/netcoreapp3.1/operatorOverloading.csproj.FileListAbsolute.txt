@@ -1,0 +1,13 @@
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.exe
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.deps.json
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.dll
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\bin\Debug\netcoreapp3.1\operatorOverloading.pdb
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.dll
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.pdb
+C:\Users\Muhammad Isa\source\repos\operatorOverloading\obj\Debug\netcoreapp3.1\operatorOverloading.genruntimeconfig.cache

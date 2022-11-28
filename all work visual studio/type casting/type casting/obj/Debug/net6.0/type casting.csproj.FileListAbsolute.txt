@@ -1,0 +1,15 @@
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\bin\Debug\net6.0\type casting.exe
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\bin\Debug\net6.0\type casting.deps.json
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\bin\Debug\net6.0\type casting.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\bin\Debug\net6.0\type casting.dll
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\bin\Debug\net6.0\type casting.pdb
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.dll
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\refint\type casting.dll
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.pdb
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\type casting.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\type casting\type casting\obj\Debug\net6.0\ref\type casting.dll

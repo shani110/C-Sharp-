@@ -1,0 +1,13 @@
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.exe
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.deps.json
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.dll
+C:\Users\Muhammad Isa\source\repos\myCosolve\bin\Debug\netcoreapp3.1\myCosolve.pdb
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.dll
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.pdb
+C:\Users\Muhammad Isa\source\repos\myCosolve\obj\Debug\netcoreapp3.1\myCosolve.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\bin\Debug\net6.0\Extensions.exe
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\bin\Debug\net6.0\Extensions.deps.json
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\bin\Debug\net6.0\Extensions.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\bin\Debug\net6.0\Extensions.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\bin\Debug\net6.0\Extensions.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\refint\Extensions.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\Extensions.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\Extensions\obj\Debug\net6.0\ref\Extensions.dll
+D:\Spredian\C_Sharp_Programming\new work\Extensions\bin\Debug\net6.0\Extensions.exe
+D:\Spredian\C_Sharp_Programming\new work\Extensions\bin\Debug\net6.0\Extensions.deps.json
+D:\Spredian\C_Sharp_Programming\new work\Extensions\bin\Debug\net6.0\Extensions.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\Extensions\bin\Debug\net6.0\Extensions.dll
+D:\Spredian\C_Sharp_Programming\new work\Extensions\bin\Debug\net6.0\Extensions.pdb
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.dll
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\refint\Extensions.dll
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.pdb
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\Extensions.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\Extensions\obj\Debug\net6.0\ref\Extensions.dll

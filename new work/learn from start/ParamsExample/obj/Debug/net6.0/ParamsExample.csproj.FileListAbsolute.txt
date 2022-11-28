@@ -1,0 +1,5 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\ParamsExample\obj\Debug\net6.0\ParamsExample.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\ParamsExample\obj\Debug\net6.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\ParamsExample\obj\Debug\net6.0\ParamsExample.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\ParamsExample\obj\Debug\net6.0\ParamsExample.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.exe
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.deps.json
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.dll
+C:\Users\Muhammad Isa\source\repos\Program__\bin\Debug\netcoreapp3.1\Program__.pdb
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.dll
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.pdb
+C:\Users\Muhammad Isa\source\repos\Program__\obj\Debug\netcoreapp3.1\Program__.genruntimeconfig.cache

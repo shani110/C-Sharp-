@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.exe
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.deps.json
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.dll
+C:\Users\Muhammad Isa\source\repos\fileextis\bin\Debug\netcoreapp3.1\fileextis.pdb
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.dll
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.pdb
+C:\Users\Muhammad Isa\source\repos\fileextis\obj\Debug\netcoreapp3.1\fileextis.genruntimeconfig.cache

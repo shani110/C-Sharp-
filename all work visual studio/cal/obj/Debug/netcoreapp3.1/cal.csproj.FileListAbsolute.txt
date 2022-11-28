@@ -1,0 +1,13 @@
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.exe
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.deps.json
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.dll
+C:\Users\Muhammad Isa\source\repos\cal\bin\Debug\netcoreapp3.1\cal.pdb
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.dll
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.pdb
+C:\Users\Muhammad Isa\source\repos\cal\obj\Debug\netcoreapp3.1\cal.genruntimeconfig.cache

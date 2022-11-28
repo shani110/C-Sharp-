@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.exe
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.deps.json
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.dll
+C:\Users\Muhammad Isa\source\repos\staticClass\bin\Debug\netcoreapp3.1\staticClass.pdb
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.dll
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.pdb
+C:\Users\Muhammad Isa\source\repos\staticClass\obj\Debug\netcoreapp3.1\staticClass.genruntimeconfig.cache

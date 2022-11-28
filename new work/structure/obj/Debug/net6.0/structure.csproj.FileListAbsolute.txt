@@ -1,0 +1,30 @@
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\bin\Debug\net6.0\structure.exe
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\bin\Debug\net6.0\structure.deps.json
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\bin\Debug\net6.0\structure.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\bin\Debug\net6.0\structure.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\bin\Debug\net6.0\structure.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\refint\structure.dll
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.pdb
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\structure.genruntimeconfig.cache
+C:\Users\Muhammad Isa\source\repos\learn from start\structure\obj\Debug\net6.0\ref\structure.dll
+D:\Spredian\C_Sharp_Programming\new work\structure\bin\Debug\net6.0\structure.exe
+D:\Spredian\C_Sharp_Programming\new work\structure\bin\Debug\net6.0\structure.deps.json
+D:\Spredian\C_Sharp_Programming\new work\structure\bin\Debug\net6.0\structure.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\structure\bin\Debug\net6.0\structure.dll
+D:\Spredian\C_Sharp_Programming\new work\structure\bin\Debug\net6.0\structure.pdb
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.dll
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\refint\structure.dll
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.pdb
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\structure.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\structure\obj\Debug\net6.0\ref\structure.dll

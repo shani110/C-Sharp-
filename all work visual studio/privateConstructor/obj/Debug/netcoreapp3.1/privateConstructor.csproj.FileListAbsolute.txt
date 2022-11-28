@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.exe
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.deps.json
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.dll
+C:\Users\Muhammad Isa\source\repos\privateConstructor\bin\Debug\netcoreapp3.1\privateConstructor.pdb
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.dll
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.pdb
+C:\Users\Muhammad Isa\source\repos\privateConstructor\obj\Debug\netcoreapp3.1\privateConstructor.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+C:\Users\Muhammad Isa\source\repos\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\Muhammad Isa\source\repos\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.exe
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.deps.json
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.dll
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\bin\Debug\netcoreapp3.1\mehtodOverridign.pdb
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.dll
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.pdb
+C:\Users\Muhammad Isa\source\repos\mehtodOverridign\obj\Debug\netcoreapp3.1\mehtodOverridign.genruntimeconfig.cache

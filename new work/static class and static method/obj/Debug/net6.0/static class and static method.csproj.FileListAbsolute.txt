@@ -1,0 +1,15 @@
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\bin\Debug\net6.0\static class and static method.exe
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\bin\Debug\net6.0\static class and static method.deps.json
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\bin\Debug\net6.0\static class and static method.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\bin\Debug\net6.0\static class and static method.dll
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\bin\Debug\net6.0\static class and static method.pdb
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.dll
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\refint\static class and static method.dll
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.pdb
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\static class and static method.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\static class and static method\obj\Debug\net6.0\ref\static class and static method.dll

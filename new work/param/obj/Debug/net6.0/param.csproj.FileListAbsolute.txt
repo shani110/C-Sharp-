@@ -1,0 +1,15 @@
+D:\Spredian\C_Sharp_Programming\new work\param\bin\Debug\net6.0\param.exe
+D:\Spredian\C_Sharp_Programming\new work\param\bin\Debug\net6.0\param.deps.json
+D:\Spredian\C_Sharp_Programming\new work\param\bin\Debug\net6.0\param.runtimeconfig.json
+D:\Spredian\C_Sharp_Programming\new work\param\bin\Debug\net6.0\param.dll
+D:\Spredian\C_Sharp_Programming\new work\param\bin\Debug\net6.0\param.pdb
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.csproj.AssemblyReference.cache
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.AssemblyInfoInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.AssemblyInfo.cs
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.csproj.CoreCompileInputs.cache
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.dll
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\refint\param.dll
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.pdb
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\param.genruntimeconfig.cache
+D:\Spredian\C_Sharp_Programming\new work\param\obj\Debug\net6.0\ref\param.dll

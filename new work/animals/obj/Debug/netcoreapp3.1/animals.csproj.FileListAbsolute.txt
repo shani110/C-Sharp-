@@ -1,0 +1,14 @@
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.exe
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.deps.json
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.runtimeconfig.json
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.runtimeconfig.dev.json
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.dll
+C:\Users\Muhammad Isa\source\repos\animals\bin\Debug\netcoreapp3.1\animals.pdb
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.dll
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.pdb
+C:\Users\Muhammad Isa\source\repos\animals\obj\Debug\netcoreapp3.1\animals.genruntimeconfig.cache
